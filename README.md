@@ -78,4 +78,4 @@ A marketing tool that combines a social media landing page with short link servi
 
 ## License
 
-The analysis and short links feature was inspired by [Dub](https://github.com/dubinc/dub)
+The analysis and short links feature was inspired by [Dub](https://github.com/dubinc/dub). The copyright for the data in the demo video at the page header belongs to the original author and is used here solely for testing and demonstration purposes.
