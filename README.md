@@ -4,7 +4,13 @@
   <a href="https://lank.at/" style="margin-bottom:40px; display:block;">
     <img src="https://github.com/imjohnathan/lankat-readme/assets/138226/4dd1e0e9-ab69-49c1-ac2c-eadfe1e40b8e" alt="Logo" width="400px">
   </a>
-
+  <p align="center">
+    <a href="https://github.com/imjohnathan/lankat#lankat-%E4%BB%BB%E6%84%8F%E9%96%80">About</a>
+    |
+    <a href="https://github.com/imjohnathan/lankat#demo">Demo</a>
+    |
+    <a href="https://github.com/imjohnathan/lankat#contact">Contact</a>
+  </p>
   <img src="https://github.com/imjohnathan/lankat-readme/assets/138226/25afccce-8349-4fe1-bb0f-f80a8516f88e" alt="Logo" width="800px">
 </div>
 
