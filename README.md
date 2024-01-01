@@ -50,7 +50,14 @@ A marketing tool that combines a social media landing page with short link servi
 * Zustand
 * Vercel
 
+## Flow Chart
+![image](https://github.com/imjohnathan/lankat-readme/assets/138226/df6a255d-56c4-4f2f-a727-e9b3861af870)
+
 ## Demo
+
+###### Login [Lank.at](https://lank.at/) **test account** by clicking the button `測試使用者登入`.
+###### Click this [link](https://lank.at/login?test) to open a test account with `mocking data` included.
+
 #### Easy drag-and-drop layout, place widgets wherever you prefer.
 ![CPT2401011627-916x651](https://github.com/imjohnathan/lankat-readme/assets/138226/56c7786d-7df5-4b3d-a9c1-da25d3bfe125)
 #### Built-in 6 theme templates to choose from, with instant preview of effects.
@@ -68,3 +75,7 @@ A marketing tool that combines a social media landing page with short link servi
   <a href="mailto:john@vamo.tw">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+## License
+
+The analysis and short links feature was inspired by [Dub](https://github.com/dubinc/dub)
