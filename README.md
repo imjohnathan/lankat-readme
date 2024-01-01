@@ -1,17 +1,10 @@
 
 
 <div align="center">
-  <a href="https://lank.at/" style="margin-bottom:20px; display:block;">
+  <a href="https://lank.at/" style="margin-bottom:40px; display:block;">
     <img src="https://github.com/imjohnathan/lankat-readme/assets/138226/4dd1e0e9-ab69-49c1-ac2c-eadfe1e40b8e" alt="Logo" width="400px">
   </a>
 
-  <p align="center">
-    <a href="https://github.com/Joy-port/joyup# About-JoyUp">About</a>
-    |
-    <a href="https://github.com/Joy-port/joyup# Demo">Demo</a>
-    |
-    <a href="https://github.com/Joy-port/joyup#Contact">Contact</a>
-  </p>
   <img src="https://github.com/imjohnathan/lankat-readme/assets/138226/25afccce-8349-4fe1-bb0f-f80a8516f88e" alt="Logo" width="800px">
 </div>
 
@@ -57,10 +50,15 @@ A marketing tool that combines a social media landing page with short link servi
 #### Built-in 6 theme templates to choose from, with instant preview of effects.
 ![CPT2401011629-866x674](https://github.com/imjohnathan/lankat-readme/assets/138226/ab27463b-1df5-4e53-b9b1-83fb9de37d93)
 #### Link widget, allows adding an unlimited number of links.
-![CPT2401011637-909x686](https://github.com/imjohnathan/lankat-readme/assets/138226/13c7950c-16a3-4cf7-9fdb-b4602e601990)
+![CPT2401011733-1024x640](https://github.com/imjohnathan/lankat-readme/assets/138226/283413c8-0382-41a2-a6a0-90ff0d524ebe)
 #### Banner widget, capable of adding up to 10 images, also allows selecting image ratios and playback speed.
-![CPT2401011658-984x640](https://github.com/imjohnathan/lankat-readme/assets/138226/1d19b688-9d43-4caf-8b52-e7af4701d2fd)
+![CPT2401011731-1024x640](https://github.com/imjohnathan/lankat-readme/assets/138226/622fa7d3-a856-4bf0-b3c6-b04838619cc2)
 #### Divider widget, offering multiple styles to choose from.
 ![CPT2401011700-984x567](https://github.com/imjohnathan/lankat-readme/assets/138226/e769d337-79ab-4978-aec0-fe0845cb1509)
 #### Analytics feature, with the option to switch between various granularities.
 ![CPT2401011703-934x762](https://github.com/imjohnathan/lankat-readme/assets/138226/928c6acd-62ec-4966-994e-ebf8b47a7df3)
+
+## Contact
+  <a href="mailto:john@vamo.tw">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
